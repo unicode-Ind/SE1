@@ -1,0 +1,13 @@
+->A variant of the Waterfall that emphasizes theverification and validationof the product.
+->Testing of the product is planned in parallel with a corresponding phase of development
+
+V shaped Steps:
+->Project and Requirements Planning – allocate resource
+->Product Requirements and Specification Analysis – complete specification of the software system
+->Architecture or High-Level Design – defines how software functions fulfill the design
+->Detailed Design – develop algorithms for each architectural component
+->Production, operation and maintenance – provide for enhancement and corrections
+->System and acceptance testing – check the entire software system in its environment
+->Integration and Testing – check that modules interconnect correctly
+->Unit testing – check that each module acts as expected
+->Coding – transform algorithms into software
