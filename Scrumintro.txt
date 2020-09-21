@@ -1,0 +1,7 @@
+# SE1
+This is repository for se lab
+Intro to Scrum model. 
+->Scrum is an agile software development process to manage software projects.
+->Scrum is based on three simple principles: visible progress, constant inspection, and adaptation.
+->In this model after sprint we need to provide the user with a working software.
+->All the requirements laid by the user are always welcome.
